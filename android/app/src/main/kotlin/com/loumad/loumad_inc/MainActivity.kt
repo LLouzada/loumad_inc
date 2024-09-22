@@ -1,0 +1,5 @@
+package com.loumad.loumad_inc
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
